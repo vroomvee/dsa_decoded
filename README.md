@@ -1,1 +1,2 @@
-This is me pushing changes directly from my vscode hehe
+Today is 16 april, 2023
+Starting my dsa decoded journey.
